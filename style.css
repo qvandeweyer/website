@@ -88,6 +88,8 @@ section.block h2 {
 .paper h3 a:hover { text-decoration: underline; }
 .authors { margin: 0; color: var(--muted); font-size: 0.92rem; }
 .status { margin: 4px 0 0; font-size: 0.92rem; }
+.authors a { color: inherit; text-decoration-color: var(--stone-line); }
+.authors a:hover { color: var(--navy); }
 .status em { font-style: italic; }
 .tag {
   display: inline-block; margin-right: 8px; padding: 1px 8px; font-size: 0.68rem; font-weight: 600;
