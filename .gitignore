@@ -1,0 +1,5 @@
+working/
+cv/*.aux
+cv/*.log
+cv/*.out
+.DS_Store
